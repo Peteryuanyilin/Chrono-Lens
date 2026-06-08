@@ -36,9 +36,16 @@ We do not sell your personal data. We only share data with trusted third-party s
 
 We implement reasonable security measures to protect your information. However, no method of transmission over the internet or electronic storage is 100% secure.
 
-## 5. Your Rights
+## 5. Your Rights & Data Deletion
 
-You have the right to access, update, or request the deletion of your personal data. You can manage your account settings within the app or contact us directly.
+You have the right to access, update, or request the deletion of your personal data. 
+
+### Account & Data Deletion
+If you wish to delete your account and all associated data (including your scan history, preferences, and profile information), you can do so through the following methods:
+*   **In-App Deletion**: Go to the App Settings page, scroll to the bottom, and click "Delete Account". This will immediately authenticate your request and permanently delete your account and all associated cloud data from our servers.
+*   **Email Request**: You can also request data deletion by sending an email to s910fishs@gmail.com with the subject "Account Deletion Request". Please include the email address associated with your account. We will process your request and delete your data within 30 days.
+
+*Note: Once your account and associated data are deleted, they cannot be recovered.*
 
 ## 6. Changes to this Privacy Policy
 
